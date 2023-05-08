@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GoogleMapsApp</string>
+    <string-array name="pacientes">
+        <item>Juan</item>
+        <item>David</item>
+        <item>Andres</item>
+    </string-array>
 </resources>
